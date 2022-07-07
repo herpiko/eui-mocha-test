@@ -10,7 +10,7 @@
     "@elastic/eui": "^13.8.1",
     "ignore-styles": "^5.0.1",
     "mocha": "^6.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
